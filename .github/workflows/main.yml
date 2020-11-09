@@ -25,7 +25,6 @@ jobs:
           host: ${{ secrets.HOST_STAGE }}
           username: ${{ secrets.USERNAME_STAGE }}
           password: ${{ secrets.PASSWORD_STAGE }}
-          port: ${{ secrets.PORT_STAGE }}
           debug: true
           script: |
             cd www/krion.little-about-web.top/downloads/
