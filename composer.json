@@ -1,7 +1,11 @@
 {
   "name": "%PLUGIN_SLUG%/%PLUGIN_SLUG%-plugin",
   "description": "Some description to your plugin",
-  "type": "project",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "WordPress",
+    "Plugin"
+  ],
   "license": "GPL-3.0",
   "authors": [
     {
