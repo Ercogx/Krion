@@ -26,6 +26,7 @@ jobs:
           username: ${{ secrets.USERNAME_STAGE }}
           password: ${{ secrets.PASSWORD_STAGE }}
           port: ${{ secrets.PORT_STAGE }}
+          debug: true
           script: |
             cd www/krion.little-about-web.top/downloads/
             git pull origin main
