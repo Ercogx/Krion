@@ -1,1 +1,1 @@
-# Krion
+To generate plugin please visit our <a href="http://krion.little-about-web.top/" target="_blank">Website</a>    

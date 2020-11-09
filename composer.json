@@ -1,0 +1,17 @@
+{
+  "name": "%PLUGIN_SLUG%/%PLUGIN_SLUG%-plugin",
+  "description": "Some description to your plugin",
+  "type": "project",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "%AUTHOR_NAME%",
+      "email": "%AUTHOR_EMAIL%"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {"Inc\\": "./inc"}
+  }
+}
